@@ -1,7 +1,7 @@
 
 # Python-Project
 
-## Snake-Water-Gun: Using Python
+## [Snake-Water-Gun: Using Python](https://github.com/bh-ramendra/Python-Project/tree/main/Snake%20Water%20and%20Gun%20Game%20Project%201)
 
 This is a very quick and Easy Snake Water Gun game which is very much similar to stone paper scissors.
 This is a good program to play the snake water gun game offline.
